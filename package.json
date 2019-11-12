@@ -21,7 +21,7 @@
     "gulp-concat-css": "latest",
     "gulp-jshint": "^2.0.4",
     "gulp-rename": "latest",
-    "gulp-sass": "^2.0.4",
+    "gulp-sass": "^3.0.0",
     "gulp-uglify": "latest",
     "gulp-uglifycss": "latest",
     "gulp-watch": "latest",
